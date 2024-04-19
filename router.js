@@ -4,7 +4,7 @@ var router = express.Router();
 const credentials = [
     { email: "admin@gmail.com", password: "admin123" },
     { email: "anshi@gmail.com", password: "1234" },
-    { email: "user2@gmail.com", password: "password2" }
+    { email: "user@gmail.com", password: "password2" }
 ];
 
 // login user
