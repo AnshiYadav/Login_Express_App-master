@@ -38,7 +38,7 @@ A simple and secure Login Application developed using **Node.js**, **JavaScript*
 
 ## Author
 
-**Your Name**  
+**Anshi**  
 CSE Student | Full Stack Developer
 
 ---
